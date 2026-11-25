@@ -1,4 +1,4 @@
-# TDAT1007---Ingenioerfaglig-innfoeringsemne
+# TDAT1007 - Ingeniørfaglig innføringsemne
 
 Her legger jeg kun inn de to prosjektene vi hadde, da kun dette er relevant.
 Det ene prosjektet var utvikling av en legobil, med Java og Lejos, og det andre
